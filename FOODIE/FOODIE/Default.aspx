@@ -34,6 +34,7 @@
         <p></p>
         <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Let's Go! &raquo;</a> 
         <%--Change the above button to the portal link (The search restaurant page)--%>
+        <%--Testing git repos. delete later!--%>
     </div>
 
     
