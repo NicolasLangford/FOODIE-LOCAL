@@ -1,0 +1,25 @@
+﻿body {
+    
+    background-image: url('../Images/1519155106-flank-steak-horizontal.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.headings{
+    text-decoration:underline;
+    font-size-adjust:0.5;
+
+
+}
+
+.jumbotron{
+    display :flex;
+}
+
+.bigger{
+    font-size-adjust:1.16;
+    padding : 10px;
+    margin : 10px;
+}
+
+

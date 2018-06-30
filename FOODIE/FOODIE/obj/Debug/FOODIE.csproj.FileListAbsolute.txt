@@ -1,0 +1,124 @@
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\FOODIE.dll.config
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\FOODIE.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\FOODIE.pdb
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Antlr3.Runtime.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\AspNet.ScriptManager.jQuery.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\EntityFramework.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\EntityFramework.SqlServer.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.ApplicationInsights.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Google.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Web.Infrastructure.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Newtonsoft.Json.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Owin.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\System.Web.Optimization.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\System.Web.Providers.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\WebGrease.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\System.Web.Optimization.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Newtonsoft.Json.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Antlr3.Runtime.pdb
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\EntityFramework.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\EntityFramework.SqlServer.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\System.Web.Providers.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Google.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\obj\Debug\FOODIE.csprojAssemblyReference.cache
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\obj\Debug\FOODIE.csproj.CoreCompileInputs.cache
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\obj\Debug\FOODIE.csproj.CopyComplete
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\obj\Debug\FOODIE.dll
+E:\Dropbox\Here we go again\Dropbox\BSc IS\3rd Year\SHARED FOLDERS\YEAR PROJECT\GitRepos\FOODIE\FOODIE\FOODIE\obj\Debug\FOODIE.pdb
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\FOODIE.dll.config
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\FOODIE.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\FOODIE.pdb
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Antlr3.Runtime.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\AspNet.ScriptManager.bootstrap.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\AspNet.ScriptManager.jQuery.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\EntityFramework.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\EntityFramework.SqlServer.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AI.Agent.Intercept.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AI.DependencyCollector.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.ApplicationInsights.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Identity.Core.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Cookies.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Facebook.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Google.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.OAuth.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Twitter.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.ScriptManager.WebForms.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Web.Infrastructure.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Newtonsoft.Json.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Owin.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\System.Diagnostics.DiagnosticSource.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\System.Web.Optimization.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\System.Web.Providers.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\WebGrease.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\System.Web.Optimization.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Newtonsoft.Json.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Antlr3.Runtime.pdb
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\EntityFramework.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\EntityFramework.SqlServer.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Identity.Core.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\System.Web.Providers.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Facebook.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Cookies.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Google.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.Twitter.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.Owin.Security.OAuth.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\System.Diagnostics.DiagnosticSource.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\bin\Microsoft.AI.DependencyCollector.xml
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\obj\Debug\FOODIE.csprojResolveAssemblyReference.cache
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\obj\Debug\FOODIE.dll
+E:\WRR301\GIT\FOODIE\FOODIE\FOODIE\obj\Debug\FOODIE.pdb
